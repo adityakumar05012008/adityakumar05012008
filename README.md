@@ -1,15 +1,15 @@
 <div align="center">
   <!-- Aesthetic Top GIF -->
-  <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI4dnd0dHBvZmVwaDFpZnYwZ21uOGxoZ2lmZ3Z3Y20yN2lveWZ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FFYuwUiNlnU599cWwT/giphy.gif alt="Coding GIF" width="100%" max-width="800"/>
+  <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI4dnd0dHBvZmVwaDFpZnYwZ21uOGxoZ2lmZ3Z3Y20yN2lveWZ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FFYuwUiNlnU599cWwT/giphy.gif alt="Coding GIF" width="50%" max-width="800"/>
 
   <br><br>
 
-  <h1>⚡ Hello, World! I'm <your-name> ⚡</h1>
+  <h1>⚡ Hello, World! I'm Aditya ⚡</h1>
   <p><em>Developer | Creator | Open Source Enthusiast</em></p>
 
   <!-- Social & Link Badges -->
-  <a href="https://linkedin.com/in/<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:<your-email>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-832301257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:adityakumardigha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/<your-twitter>"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
   <a href="https://<your-portfolio>"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </div>
