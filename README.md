@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Aesthetic Top GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtN2Rlb25xeW5tbnd5Z2ZpbmhweWVpM2xpdGVjcGpzNnJpNHRmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="100%" max-width="800"/>
+  <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI4dnd0dHBvZmVwaDFpZnYwZ21uOGxoZ2lmZ3Z3Y20yN2lveWZ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FFYuwUiNlnU599cWwT/giphy.gif alt="Coding GIF" width="100%" max-width="800"/>
 
   <br><br>
 
