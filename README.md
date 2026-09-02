@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNweG9heDJrZmZtcnNuZG5jODNuZXphdDQ1ODYwZ3V2MjFoZGJwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s6inaVnOnO6L3vbwR/giphy.gif" alt="Coding GIF" width="45%" style="border-radius: 10px;"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2h2bjM1b21nOTJ4ZzU0aHd5cHY2aXFvczVucGwzdzZlMzV0aGJ4byZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3s6inaVnOnO6L3vbwR/200.webp" alt="Coding GIF" width="45%" style="border-radius: 10px;"/>
 
   <br><br>
 
@@ -11,8 +11,8 @@
 
   <p><em>Crafting scalable systems & elegant web experiences.</em></p>
 
-  <a href="https://www.linkedin.com/in/aditya-kumar-832301257/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  <a href="https://github.com/adityakumar05012008">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:adityakumardigha@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
@@ -23,7 +23,7 @@
 
 <img src="https://raw.githubusercontent.com/andreruffert/synthwave-everything/master/assets/line.png" width="100%" height="2px" />
 
-**⚙️ Core Stack & Technologies**
+### ⚙️ Core Stack & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
