@@ -15,7 +15,7 @@
 
   <p><em>Crafting scalable systems & elegant web experiences.</em></p>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/aditya-kumar-832301257/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn"/>
   </a>
