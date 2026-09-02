@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **adityakumar05012008/adityakumar05012008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
