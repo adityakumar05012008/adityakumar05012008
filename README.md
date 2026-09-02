@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Aesthetic Top GIF -->
-  <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI4dnd0dHBvZmVwaDFpZnYwZ21uOGxoZ2lmZ3Z3Y20yN2lveWZ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FFYuwUiNlnU599cWwT/giphy.gif alt="Coding GIF" width="50%" max-width="800"/>
+  <img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3AyeXcxZzhzaXJuNWJreW8xZGQyb3BzbndyZWR4dGRkejV2cmx3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3OL6mSc2FeV0UHMDg/giphy.gif alt="Coding GIF" width="50%" max-width="800"/>
 
   <br><br>
 
@@ -14,16 +14,6 @@
   <a href="https://<your-portfolio>"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </div>
 
----
-
-### 👨‍💻 About Me
-
-* 🔭 **Currently Working On:** Building scalable applications & open-source tools.
-* 🌱 **Currently Learning:** Advanced system design & cloud-native infrastructure.
-* 💬 **Ask Me About:** Web development, databases, and clean architecture.
-* ⚡ **Fun Fact:** I turn caffeine into code.
-
----
 
 ### 🛠️ Tech Stack
 
@@ -47,17 +37,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
----
 
-### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&theme=onedark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&theme=onedark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="48%"/>
-</div>
-
----
-
-<div align="center">
-  <sub>✨ Designed with dark mode aesthetics ✨</sub>
 </div>
